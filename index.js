@@ -1,5 +1,5 @@
 /* ----- NAVIGATION BAR FUNCTION ----- */
-// Function to toggle the menu visibility
+// Function to toggle the menu 
 function myMenuFunction() {
   var menu = document.getElementById("myNavMenu");
   menu.classList.toggle("responsive");
